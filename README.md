@@ -1,6 +1,6 @@
 # TWEEPS
 
-Tweeps merupakan sebuah aplikasi sederhana yang memiliki beberapa fitur seperti twitter.
+Tweeps merupakan sebuah aplikasi sederhana, imitasi dari twitter.
 
 Fitur pada aplikasi ini yaitu:
 
