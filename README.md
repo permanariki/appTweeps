@@ -27,5 +27,3 @@ Fitur pada aplikasi ini yaitu:
 6. Put Tweet
 
     Merupakan fitur untuk mengubah tweet, dengan ketentuan email(pengirim) benar, tweet sudah pernah dibuat, kemudian kita memasukkan tweet baru.
-
-
