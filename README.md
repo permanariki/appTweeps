@@ -28,15 +28,4 @@ Fitur pada aplikasi ini yaitu:
 
     Merupakan fitur untuk mengubah tweet, dengan ketentuan email(pengirim) benar, tweet sudah pernah dibuat, kemudian kita memasukkan tweet baru.
 
-"INI pembeda" ffddgit dadasd
-"INI pembeda" ffddgit dadasd
-"INI pembeda" ffddgit dadasd
-"INI pembeda" ffddgit dadasd
-"INI pembeda" ffddgit dadasd
-"INI pembeda" ffddgit dadasdsadas
-"INI pembeda" ffddgit dadasddasad
-"INI pembeda" ffddgit dadasd dasdsa
-123 123
 
-
-ini permana
