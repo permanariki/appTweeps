@@ -33,7 +33,7 @@ Fitur pada aplikasi ini yaitu:
 "INI pembeda" ffddgit dadasd
 "INI pembeda" ffddgit dadasd
 "INI pembeda" ffddgit dadasd
-"INI pembeda" ffddgit dadasd
-"INI pembeda" ffddgit dadasd
-"INI pembeda" ffddgit dadasd
+"INI pembeda" ffddgit dadasdsadas
+"INI pembeda" ffddgit dadasddasad
+"INI pembeda" ffddgit dadasd dasdsa
 123 123
