@@ -150,7 +150,7 @@ class Tweet(Resource):
          args = self.reqparse.parse_args()
          tweet.append(req)
          tambahTweet()
-         return "tweet telah dibuat",201
+         return req,200
 
      def delete(self):
         email = request.json["email"]
